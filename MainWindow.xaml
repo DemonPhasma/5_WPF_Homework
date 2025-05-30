@@ -24,7 +24,7 @@
                     HorizontalAlignment="Left"
                     VerticalAlignment="Center"
                     Grid.ColumnSpan="2">
-            <TextBlock Text="Список дел"
+            <TextBlock Text="Список дел:"
                FontSize="26"/>
         </StackPanel>
 
