@@ -64,3 +64,4 @@ C:\Users\Top\Source\Repos\4_WPF_Homework\obj\Debug\net8.0-windows\refint\5_WPF_H
 C:\Users\Top\Source\Repos\4_WPF_Homework\obj\Debug\net8.0-windows\5_WPF_Homework.pdb
 C:\Users\Top\Source\Repos\4_WPF_Homework\obj\Debug\net8.0-windows\5_WPF_Homework.genruntimeconfig.cache
 C:\Users\Top\Source\Repos\4_WPF_Homework\obj\Debug\net8.0-windows\ref\5_WPF_Homework.dll
+C:\Users\Top\Source\Repos\4_WPF_Homework\obj\Debug\net8.0-windows\5_WPF_Homework.sourcelink.json

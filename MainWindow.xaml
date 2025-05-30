@@ -60,8 +60,11 @@
 
             <DataGrid.RowDetailsTemplate>
                 <DataTemplate>
-                    
-                    <TextBlock Text="{Binding Path=Description}"/>
+
+                    <ScrollViewer MaxHeight="50">
+                        <TextBlock Text="{Binding Path=Description}"
+                               />
+                    </ScrollViewer>
                 </DataTemplate>
             </DataGrid.RowDetailsTemplate>
 

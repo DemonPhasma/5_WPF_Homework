@@ -85,7 +85,7 @@ namespace _5_WPF_Homework {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/5_WPF_Homework;V1.0.0.0;component/newtodo.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/5_WPF_Homework;component/newtodo.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\NewTodo.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
